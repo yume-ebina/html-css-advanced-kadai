@@ -1043,6 +1043,7 @@ h3 {
 #cases > ul {
   display: block;
   list-style: none;
+  padding: 0;
 }
 
 .case-card {
