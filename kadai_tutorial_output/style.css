@@ -1035,6 +1035,44 @@ h3 {
 
 
 
+/* ケース */
+#cases {
+  margin: 80px 20px;
+}
+
+#cases > ul {
+  display: block;
+  list-style: none;
+}
+
+.case-card {
+  width: 100%;
+  margin: 20px auto;
+  background-color: #fff;
+  min-height: 350px;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.cases-img {
+  width: 100%;
+}
+
+.cases-info {
+  padding: 10px 20px;
+}
+
+.cases-name {
+  color: #2710d5;
+  font-size: 19px;
+  margin: 0;
+}
+
+.cases-content {
+  font-size: 14px;
+}
+
+
+
 /* カンパニー */
 #company {
   margin: 0 20px;
